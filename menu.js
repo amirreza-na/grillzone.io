@@ -24,7 +24,7 @@ window.GRILLZONE = {
 
   categories: [
     { id: 'burger',  title: 'برگر',     icon: '🍔' },
-    { id: 'hotdog',  title: 'هات‌داگ',  icon: '🌭' },
+    { id: 'hotdog',  title: 'هات‌ داگ',  icon: '🌭' },
     { id: 'salad',   title: 'سالاد',    icon: '🥗' },
     { id: 'salad',   title: 'نوشیدنی',    icon: '🥤' },
   ],
@@ -41,10 +41,10 @@ window.GRILLZONE = {
     { cat: 'burger', name: 'رنچ برگر',         price: 0, desc: '', img: '' },
 
     // ─────────────── هات‌داگ ───────────────
-    { cat: 'hotdog', name: 'هات‌داگ کلاسیک',    price: 0, desc: '', img: '' },
-    { cat: 'hotdog', name: 'هات‌داگ کاراملایز', price: 0, desc: '', img: '' },
-    { cat: 'hotdog', name: 'هات‌داگ مکزیکی',    price: 0, desc: '', img: '', tag: 'spicy' },
-    { cat: 'hotdog', name: 'هات‌داگ چیلی چیز',  price: 0, desc: '', img: '' },
+    { cat: 'hotdog', name: 'هات‌ داگ کلاسیک',    price: 0, desc: '', img: '' },
+    { cat: 'hotdog', name: 'هات‌ داگ کاراملایز', price: 0, desc: '', img: '' },
+    { cat: 'hotdog', name: 'هات‌ داگ مکزیکی',    price: 0, desc: '', img: '', tag: 'spicy' },
+    { cat: 'hotdog', name: 'هات‌ داگ چیلی چیز',  price: 0, desc: '', img: '' },
 
     // ─────────────── سالاد ───────────────
     { cat: 'salad',  name: 'سالاد سزار',       price: 0, desc: '', img: '' },
