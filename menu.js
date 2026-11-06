@@ -26,7 +26,7 @@ window.GRILLZONE = {
     { id: 'burger',  title: 'برگر',     icon: '🍔' },
     { id: 'hotdog',  title: 'هات‌ داگ',  icon: '🌭' },
     { id: 'salad',   title: 'سالاد',    icon: '🥗' },
-    { id: 'salad',   title: 'نوشیدنی',    icon: '🥤' },
+    { id: 'drink',   title: 'نوشیدنی',    icon: '🥤' },
   ],
 
   items: [
@@ -53,9 +53,9 @@ window.GRILLZONE = {
   ],
 
    // ─────────────── نوشیدنی ───────────────
-    { cat: 'salad',  name: 'کوکاکولا',       price: 0, desc: '', img: '' },
-    { cat: 'salad',  name: 'پپسی',   price: 0, desc: '', img: '' },
-    { cat: 'salad',  name: 'کولا زیرو',        price: 0, desc: '', img: '' },
-    { cat: 'salad',  name: 'دوغ',        price: 0, desc: '', img: '' },
+    { cat: 'drink',  name: 'کوکاکولا',       price: 0, desc: '', img: '' },
+    { cat: 'drink',  name: 'پپسی',   price: 0, desc: '', img: '' },
+    { cat: 'drink',  name: 'کولا زیرو',        price: 0, desc: '', img: '' },
+    { cat: 'drink',  name: 'دوغ',        price: 0, desc: '', img: '' },
   ],
 };
