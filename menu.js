@@ -50,7 +50,6 @@ window.GRILLZONE = {
     { cat: 'salad',  name: 'سالاد سزار',       price: 0, desc: '', img: '' },
     { cat: 'salad',  name: 'سالاد انتروکوت',   price: 0, desc: '', img: '' },
     { cat: 'salad',  name: 'کول اسلاو',        price: 0, desc: '', img: '' },
-  ],
 
    // ─────────────── نوشیدنی ───────────────
     { cat: 'drink',  name: 'کوکاکولا',       price: 0, desc: '', img: '' },
