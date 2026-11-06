@@ -32,7 +32,7 @@ window.GRILLZONE = {
   items: [
     // ─────────────── برگر ───────────────
     { cat: 'burger', name: 'برگر کلاسیک',     price: 680000, desc: 'برگر 150 گرمی، سس مخصوص', img: 'classic-burger.jpg' },
-    { cat: 'burger', name: 'چیز برگر',          price: 750000, desc: 'پنیر چدار ،برگر 150 گرمی، سس مخصوص', img: 'chiz-burger.jpg' },
+    { cat: 'burger', name: 'چیز برگر',          price: 750000, desc: 'برگر 150 گرمی، سس مخصوص، پنیر چدار', img: 'chiz-burger.jpg' },
     { cat: 'burger', name: 'ماشروم برگر',      price: 0, desc: '', img: '' },
     { cat: 'burger', name: 'پستو برگر',        price: 0, desc: '', img: '' },
     { cat: 'burger', name: 'کاراملایز برگر',   price: 0, desc: '', img: '' },
