@@ -26,6 +26,7 @@ window.GRILLZONE = {
     { id: 'burger',  title: 'برگر',     icon: '🍔' },
     { id: 'hotdog',  title: 'هات‌داگ',  icon: '🌭' },
     { id: 'salad',   title: 'سالاد',    icon: '🥗' },
+    { id: 'salad',   title: 'نوشیدنی',    icon: '🥤' },
   ],
 
   items: [
